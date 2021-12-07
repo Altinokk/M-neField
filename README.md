@@ -1,2 +1,2 @@
-# M-neField
+# MineField
 Minefield game made with Java
